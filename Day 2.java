@@ -1,4 +1,4 @@
-PROBLEM STATEMENT
+/*PROBLEM STATEMENT
 Given an array and a threshold value find the output.
 Input: {5,8,10,13,6,2}
 Threshold = 3
@@ -27,9 +27,8 @@ Sample Input 1
 3
 
 Sample Output 1
-17
+17*/
 
-SOLVED CODE :
 import java.util.*;
 public class Main
 {
