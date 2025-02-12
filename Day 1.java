@@ -1,4 +1,4 @@
-PROBLEM STATEMENT:
+/*PROBLEM STATEMENT:
 
 Given an array of numbers and a window of size k. Print the maximum of numbers inside the window for each step as the window moves from the beginning of the array.
 
@@ -18,10 +18,10 @@ Sample Input 1
 
 Sample Output 1
 5 5 5 8 8 9
+*/
 
 
 
-SOLVED CODE :
 
 import java.util.*;
 public class Main{
